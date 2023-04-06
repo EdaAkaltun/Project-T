@@ -3,9 +3,10 @@ import json
 
 
 ################################## GET ENVIROMENT TYPE ###################################
-def gettypelocation(lon, lat):
+# x is lon y is lat
+def gettypelocation(x, y):
     # Build the OSM API query URL
-    url = 'https://nominatim.openstreetmap.org/reverse?format=json&lat={}&lon={}&zoom=18&addressdetails=1'.format(lon, lat)
+    url = 'https://nominatim.openstreetmap.org/reverse?format=json&lat={}&lon={}&zoom=18&addressdetails=1'.format(x, y)
 
     # Send a GET request to the API and get the response
     response = requests.get(url)

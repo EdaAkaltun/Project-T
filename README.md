@@ -56,7 +56,7 @@ To run the scripts and use the tool, you need to ensure the following prerequisi
 
 - Each script is provided with comments and documentation to assist in understanding the code and its functionality.
 - Feel free to modify the scripts.
-
+- Climada is downloaded along when using requirements.txt, but not necessary to run the script. This portion can be skipped.
 
 
 ```

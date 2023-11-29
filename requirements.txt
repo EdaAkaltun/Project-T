@@ -9,7 +9,7 @@ branca @ file:///home/conda/feedstock_root/build_artifacts/branca_1667848736831/
 brotlipy @ file:///D:/bld/brotlipy_1666764804378/work
 cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
 Cartopy @ file:///D:/bld/cartopy_1655468063882/work
-certifi==2022.12.7
+certifi==2023.7.22
 cffi @ file:///D:/bld/cffi_1671179506518/work
 cfgrib @ file:///home/conda/feedstock_root/build_artifacts/cfgrib_1643635952782/work
 cftime @ file:///D:/bld/cftime_1666833846463/work

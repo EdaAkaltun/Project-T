@@ -104,7 +104,7 @@ ppft @ file:///home/conda/feedstock_root/build_artifacts/ppft_1666592874911/work
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1677600924538/work
 psutil @ file:///D:/bld/psutil_1667886056621/work
 pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
-pyarrow==11.0.0
+pyarrow==14.0.1
 pycountry @ file:///home/conda/feedstock_root/build_artifacts/pycountry_1668531524445/work
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
 pyepsg==0.4.0
